@@ -1,12 +1,12 @@
 # Arrival Service Platform Test Task
 
 ## Usage
-Install clojure as described in [https://clojure.org/guides/getting_started]
+Install clojure as described in <https://clojure.org/guides/getting_started>
 Run inside the project folder
 ```
 clj -m arrival.server
 ```
-Open [http://localhost:9510] in your favourite browser.
+Open <http://localhost:9510> in your favourite browser.
 
 ## TODO
  - fix fn flatten-enrich-data in src/arrival/data.cljc
